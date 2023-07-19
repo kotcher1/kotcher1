@@ -54,6 +54,6 @@ https://github.com/kotcher1/projects
 
 ### Немного графиков 
 
-<div style="display: flex; align-items: flex-start">
+<div style="display: flex; align-items: flex-start;">
     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotcher1) ![Codewars](https://github.r2v.ch/codewars?user=kotcher1&stroke=%237fffd4)
 </div>
