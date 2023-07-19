@@ -32,6 +32,20 @@
 
 https://github.com/kotcher1/projects
 
+### Мои контакты
+
+<div>
+    <a href="https://t.me/Hanna_Shulgina">
+      <img src="https://img.shields.io/badge/telegram-DEF7FE?logo=telegram&logocolor=white" alt="Telegram"/>
+    </a>
+    <a href="mailto:annashkt@gmail.com">
+      <img src="https://img.shields.io/badge/gmail-FFFADD?logo=gmail" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/anna-shulgina-4a80181b4/">
+      <img src="https://img.shields.io/badge/linkedin-C6D8FF?logo=linkedin&logocolor=white" alt="Linkedin">
+    </a>
+</div>
+
 ### Хобби
 
 <p>
