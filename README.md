@@ -52,6 +52,6 @@ https://github.com/kotcher1/projects
   <img src="https://github.com/kotcher1/kotcher1/assets/43149448/0c9fb8f2-c5bc-41f1-9de2-325e8d77f70b" alt="hobby" height="300">
 </p>
 
-### Немного графиков 
+### Немного графиков (совсем немного)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotcher1) 
