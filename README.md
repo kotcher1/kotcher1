@@ -54,4 +54,4 @@ https://github.com/kotcher1/projects
 
 ### Немного графиков 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotcher1)] ![Codewars](https://github.r2v.ch/codewars?user=kotcher1&stroke=7fffd4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotcher1) ![Codewars](https://github.r2v.ch/codewars?user=kotcher1&stroke=#7fffd4)
