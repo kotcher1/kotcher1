@@ -54,4 +54,4 @@ https://github.com/kotcher1/projects
 
 ### Немного графиков 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotcher1)](https://github.com/anuraghazra/github-readme-stats?theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kotcher1&show_icons=true&theme=)
