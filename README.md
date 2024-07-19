@@ -49,7 +49,7 @@ https://github.com/kotcher1/projects
 ### Хобби
 
 <p>
-  <img src="https://github.com/kotcher1/kotcher1/assets/43149448/0c9fb8f2-c5bc-41f1-9de2-325e8d77f70b" alt="hobby" height="300">
+  <img src="https://github.com/kotcher1/kotcher1/assets/43149448/0c9fb8f2-c5bc-41f1-9de2-325e8d77f70b" alt="hobby" style="max-width: 550px; width: 100%; height: auto;">
 </p>
 
 ### Немного графиков (совсем немного)
