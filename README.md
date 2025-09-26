@@ -2,7 +2,6 @@
 
 - Всё время учусь новому
 - Обожаю дружелюбные коллективы
-- Хочу попасть в сильную фронтенд-команду
 - В восторге от интересных проектов, таких, чтоб с изюминкой
 - Качаюсь в области CSS-анимаций и React'а
 - Педагог, который смог... Попасть в IT
@@ -45,12 +44,6 @@ https://github.com/kotcher1/projects
       <img src="https://img.shields.io/badge/linkedin-C6D8FF?logo=linkedin&logocolor=white" alt="Linkedin">
     </a>
 </div>
-
-### Хобби
-
-<p>
-  <img src="https://github.com/kotcher1/kotcher1/assets/43149448/0c9fb8f2-c5bc-41f1-9de2-325e8d77f70b" alt="hobby" style="max-width: 550px; width: 100%; height: auto;">
-</p>
 
 ### Немного графиков (совсем немного)
 
